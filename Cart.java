@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Cart {
 
-    WebDriver drv = DriverManager.getDriver();
+    //WebDriver drv = DriverManager.getDriver();
 
     private final By removeItem = By.id("remove-sauce-labs-bike-light");
     private final By checkoutButton = By.id("checkout");
